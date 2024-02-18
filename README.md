@@ -1,1 +1,1 @@
-C++ Early Objects 10th edition by Tony Gaddis. In program 8-11 there is an input file. I made this file in reverse by reading the input file and then making the output file just for the sake of practice with outputting an array to a dat file.
+C++ Early Objects 10th edition by Tony Gaddis. In program 8-11 there is an input file. I made this file in reverse by reading the input file and then making an output file just for the sake of practice with outputting an array to a dat file.
